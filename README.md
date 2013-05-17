@@ -9,5 +9,5 @@ $ npm install
 $ node app.js
 ```
 
-Then visit [http://localhost:3000/index.html] to see an example.
+Then visit [http://localhost:3000/index.html](http://localhost:3000/index.html) to see an example.
 
