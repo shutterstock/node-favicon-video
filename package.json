@@ -13,5 +13,6 @@
     "request": "*",
     "config": "*",
     "async": "*"
-  }
+  },
+  "license": "MIT"
 }
