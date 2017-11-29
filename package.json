@@ -14,5 +14,17 @@
     "config": "*",
     "async": "*"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "description": "Videos in your favicon!",
+  "keywords": ["video", "favicon"],
+  "homepage": "https://github.com/shutterstock/node-favicon-video",
+  "bugs": "https://github.com/shutterstock/node-favicon-video/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shutterstock/node-favicon-video.git"
+  },
+  "contributors": [
+    "David Chester <david@fmail.co.uk>",
+    "Richard Littauer <richard.littauer@gmail.com>"
+  ]
 }
